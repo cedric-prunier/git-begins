@@ -6,5 +6,5 @@ git push
 git add .
 git commit -m "premier"
 
-command pull:
+commande pull:
 git pull
