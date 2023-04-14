@@ -5,3 +5,6 @@ commande push:
 git push
 git add .
 git commit -m "premier"
+
+command pull:
+git pull
