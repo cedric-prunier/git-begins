@@ -2,9 +2,9 @@ commande clonage:
 git clone https://github/cedric-prunier/nom du repository
 
 commande push:
-git push
 git add .
 git commit -m "premier"
+git push
 
 commande pull:
 git pull
